@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# Eclipse Social Core MCP
+# Copyright © 2026 Cyan Eclipse Technologies LLC · cetech.ai
+# Generate icon-512.png — brand system §6: eclipse motif on the navy
+
 """Generate icon-512.png — brand system §6: eclipse motif on the navy
 field (#0d1b2a), one per-product glyph. The Core's glyph is the hub:
 one canonical node at the eclipse ring, spokes out to adapter nodes —
@@ -45,3 +49,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Eclipse Social Core MCP · © 2026 Cyan Eclipse Technologies LLC · cetech.ai

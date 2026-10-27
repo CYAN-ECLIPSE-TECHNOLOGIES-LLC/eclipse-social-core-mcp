@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# Eclipse Social Core MCP
+# Copyright © 2026 Cyan Eclipse Technologies LLC · cetech.ai
+# Eclipse Social Core v0.1 (S0) — unit tests.
+
 """Eclipse Social Core v0.1 (S0) — unit tests.
 Run: python3 -m unittest discover tests"""
 import json
@@ -303,3 +307,5 @@ class TestKillSwitchAndLog(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+# Eclipse Social Core MCP · © 2026 Cyan Eclipse Technologies LLC · cetech.ai

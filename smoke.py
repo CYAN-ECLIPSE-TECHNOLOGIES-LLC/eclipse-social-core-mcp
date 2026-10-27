@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# Eclipse Social Core MCP
+# Copyright © 2026 Cyan Eclipse Technologies LLC · cetech.ai
+# Smoke: drive server.py over real stdio with a temp state file.
+
 """Smoke: drive server.py over real stdio with a temp state file.
 Ingests the synthetic fixture package, registers the dogfood account,
 builds + approves a variant, revises it (approval must invalidate),
@@ -94,3 +98,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Eclipse Social Core MCP · © 2026 Cyan Eclipse Technologies LLC · cetech.ai

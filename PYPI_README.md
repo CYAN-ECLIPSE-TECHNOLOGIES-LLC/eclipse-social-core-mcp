@@ -1,5 +1,7 @@
 # eclipse-social-core
 
+mcp-name: io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/social-core
+
 **What this is:** the MCP server for **Eclipse Social Core** — the
 shared core of Cyan Eclipse Technologies' Eclipse social adapter
 family. One canonical, versioned, hash-bound content package;
